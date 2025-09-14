@@ -1,4 +1,5 @@
 Analisis Visualisasi Data Titanic
+
 Dataset Titanic sering digunakan sebagai studi kasus dalam analisis data eksploratif (Exploratory Data Analysis / EDA) 
 karena berisi kombinasi variabel kategorik (jenis kelamin, kelas, pelabuhan) dan variabel numerik (umur, tarif, jumlah keluarga). 
 Tujuan dari visualisasi ini adalah untuk memahami pola, 
