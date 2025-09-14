@@ -5,6 +5,7 @@ karena berisi kombinasi variabel kategorik (jenis kelamin, kelas, pelabuhan) dan
 Tujuan dari visualisasi ini adalah untuk memahami pola, 
 distribusi, dan hubungan antar variabel, khususnya kaitannya dengan status kelangsungan hidup (survived).
 
+
 Modifikasi yang dilakukan
 1. Distribusi jumlah penumpang berdasarkan kelas
 <img width="695" height="547" alt="image" src="https://github.com/user-attachments/assets/b9dd3c25-b456-4342-804f-7a9b7f990775" />
