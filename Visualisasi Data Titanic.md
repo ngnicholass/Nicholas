@@ -8,6 +8,8 @@ Modifikasi yang dilakukan
 1. Distribusi jumlah penumpang berdasarkan kelas
 2. Distribusi kelangsungan hidup berdasarkan kelas
 
+<img width="695" height="547" alt="image" src="https://github.com/user-attachments/assets/b9dd3c25-b456-4342-804f-7a9b7f990775" />
+
 Kesimpulan
 - Kebanyakan penumpang berada di kelas bawah, lalu urutan kedua kelas atas, dan terakhir yang paling sedikit adalah kelas menengah.
 - Penumpang kelas bawah merupakan penumpang yang paling banyak tidak selamat, dan penumpang di kelas atas yang paling banyak selamat.
