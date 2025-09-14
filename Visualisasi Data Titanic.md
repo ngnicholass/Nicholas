@@ -1,9 +1,7 @@
 Analisis Visualisasi Data Titanic
 
 Dataset Titanic sering digunakan sebagai studi kasus dalam analisis data eksploratif (Exploratory Data Analysis / EDA) 
-karena berisi kombinasi variabel kategorik (jenis kelamin, kelas, pelabuhan) dan variabel numerik (umur, tarif, jumlah keluarga). 
-Tujuan dari visualisasi ini adalah untuk memahami pola, 
-distribusi, dan hubungan antar variabel, khususnya kaitannya dengan status kelangsungan hidup (survived).
+karena berisi kombinasi variabel kategorik (jenis kelamin, kelas, pelabuhan) dan variabel numerik (umur, tarif, jumlah keluarga). Tujuan dari visualisasi ini adalah untuk memahami pola, distribusi, dan hubungan antar variabel, khususnya kaitannya dengan status kelangsungan hidup (survived). Kali ini, saya mencoba melakukan modifikasi untuk menambahkan variabel baru untuk divisualisasikan
 
 
 Modifikasi yang dilakukan
