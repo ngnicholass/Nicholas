@@ -7,6 +7,7 @@ distribusi, dan hubungan antar variabel, khususnya kaitannya dengan status kelan
 
 
 Modifikasi yang dilakukan
+variabel yang ditambahkan: pclass (merepresentasikan tingkat sosial-ekonomi (socio-economic status) penumpang di kapal Titanic)
 1. Distribusi jumlah penumpang berdasarkan kelas
 <img width="695" height="547" alt="image" src="https://github.com/user-attachments/assets/b9dd3c25-b456-4342-804f-7a9b7f990775" />
 
