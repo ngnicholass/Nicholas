@@ -9,8 +9,10 @@ Modifikasi yang dilakukan
 1. Distribusi jumlah penumpang berdasarkan kelas
 <img width="695" height="547" alt="image" src="https://github.com/user-attachments/assets/b9dd3c25-b456-4342-804f-7a9b7f990775" />
 
+
 2. Distribusi kelangsungan hidup berdasarkan kelas
 <img width="695" height="547" alt="image" src="https://github.com/user-attachments/assets/7676eeb9-3227-4462-92c5-1a715b9efcde" />
+
 
 Kesimpulan
 - Jumlah penumpang terbanyak berada di kelas bawah, lalu urutan kedua kelas atas, dan terakhir yang paling sedikit adalah kelas menengah.
