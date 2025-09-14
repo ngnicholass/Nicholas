@@ -13,5 +13,5 @@ Modifikasi yang dilakukan
 <img width="695" height="547" alt="image" src="https://github.com/user-attachments/assets/7676eeb9-3227-4462-92c5-1a715b9efcde" />
 
 Kesimpulan
-- Kebanyakan penumpang berada di kelas bawah, lalu urutan kedua kelas atas, dan terakhir yang paling sedikit adalah kelas menengah.
+- Jumlah penumpang terbanyak berada di kelas bawah, lalu urutan kedua kelas atas, dan terakhir yang paling sedikit adalah kelas menengah.
 - Penumpang kelas bawah merupakan penumpang yang paling banyak tidak selamat, dan penumpang di kelas atas yang paling banyak selamat.
